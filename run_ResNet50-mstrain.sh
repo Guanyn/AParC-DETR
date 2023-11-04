@@ -1,0 +1,1 @@
+#!/bin/bashpython -u tools/train.py configs/adamixer/adamixer_r50_mstrain_480-800_3x_coco.py

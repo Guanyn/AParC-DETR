@@ -1,0 +1,1 @@
+#!/bin/bashecho "ResNet50"python -u tools/train.py configs/adamixer/adamixer_r50_1x_coco.py
